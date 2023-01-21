@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eba66e20-49ce-41f9-82ae-0fcc549e03fa" name="Changes" comment="Added direction steering for keyboard">
+    <list default="true" id="eba66e20-49ce-41f9-82ae-0fcc549e03fa" name="Changes" comment="Basic snake game without any rules">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674309802052</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Basic snake game without any rules">
+      <created>1674310263337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674310263337</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +100,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added direction steering commands" />
     <MESSAGE value="Added direction steering for keyboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added direction steering for keyboard" />
+    <MESSAGE value="Basic snake game without any rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic snake game without any rules" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
