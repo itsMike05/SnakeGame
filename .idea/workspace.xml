@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eba66e20-49ce-41f9-82ae-0fcc549e03fa" name="Changes" comment="Basic snake game without any rules">
+    <list default="true" id="eba66e20-49ce-41f9-82ae-0fcc549e03fa" name="Changes" comment="Added Game Over screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
@@ -35,7 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674310263337</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Game Over screen">
+      <created>1674310451875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674310451875</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +108,8 @@
     <MESSAGE value="Added direction steering commands" />
     <MESSAGE value="Added direction steering for keyboard" />
     <MESSAGE value="Basic snake game without any rules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic snake game without any rules" />
+    <MESSAGE value="Added Game Over screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Game Over screen" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
